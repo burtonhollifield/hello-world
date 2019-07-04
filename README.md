@@ -1,2 +1,4 @@
 # hello-world
-first repository
+Faculty member, Tepper School of Business, Carnegie Mellon University
+
+
